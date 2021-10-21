@@ -4,10 +4,11 @@
 </h3>💻 About Me </h3>
 
 
+- 🎓 &nbsp; Estudiante de Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación en la UOC
 
 - 🤔 &nbsp; Apasionado de las nuevas tecnologias.
 
-- 🎓 &nbsp; Estudiante de Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación en la UOC
+
 
 
 
