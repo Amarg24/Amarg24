@@ -12,8 +12,8 @@
 
 
 
-<img align='left' src="https://media4.giphy.com/media/CTX0ivSQbI78A/giphy.gif?cid=790b7611a74f9db7eeb2792a6c74dc18790ac447436da4ac&rid=giphy.gif&ct=g" width="350">
-<img align='center' src="https://media.giphy.com/media/ubTm0qEprEvOo/giphy.gif" width="220">
+<img align='left' src="https://media4.giphy.com/media/CTX0ivSQbI78A/giphy.gif?cid=790b7611a74f9db7eeb2792a6c74dc18790ac447436da4ac&rid=giphy.gif&ct=g" width="350"><img align='center' src="https://media.giphy.com/media/ubTm0qEprEvOo/giphy.gif" width="220">
+
 
 
 <h3>🛠 Tech Stack</h3>
