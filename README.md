@@ -34,7 +34,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/116wwYf3ajIvrG/giphy.gif" width="350" align='right'>
+<img src="https://media.giphy.com/media/3ohc15p7iNpaHSf1Li/giphy.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarg24&show_icons=true)
 
