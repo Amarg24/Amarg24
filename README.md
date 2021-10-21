@@ -1,6 +1,6 @@
 ### Hi everything!!! 🖥 I'm Andrés🖥</h2>
 
-<img align='right' src="https://media0.giphy.com/media/116wwYf3ajIvrG/giphy.gif?cid=790b76116afd9e7aab92b7ce0b676401fcd4f8b31ed7eeb7&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://media.giphy.com/media/ubTm0qEprEvOo/giphy.gif" width="230">
 <img align='right' src="https://media4.giphy.com/media/CTX0ivSQbI78A/giphy.gif?cid=790b7611a74f9db7eeb2792a6c74dc18790ac447436da4ac&rid=giphy.gif&ct=g" width="350">
 
 </h3>💻 About Me </h3>
