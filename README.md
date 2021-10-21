@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Amarg24/SALUDO/main/1.svg?token=AWAZRRP72T4EPZ3R6BBTSQDBOHGRQ"/>
+<img src="https://raw.githubusercontent.com/Amarg24/Amarg24/main/saludo.svg"/>
 
 
 </h3>💻 About Me </h3>
