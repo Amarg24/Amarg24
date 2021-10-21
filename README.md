@@ -6,13 +6,11 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Apasionado de las nuevas tecnologias.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Estudiante de Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación en la UOC
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 
 
