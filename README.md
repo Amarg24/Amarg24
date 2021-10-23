@@ -1,4 +1,4 @@
-[perfil](https://raw.githubusercontent.com/Amarg24/Amarg24/main/imagen)
+(https://raw.githubusercontent.com/Amarg24/Amarg24/main/imagen)
 
 <img src="https://raw.githubusercontent.com/Amarg24/Amarg24/main/saludo.svg"/>
 
