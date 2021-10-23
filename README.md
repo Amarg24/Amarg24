@@ -1,4 +1,4 @@
-<img src="https://github.com/Amarg24/Amarg24.wiki.git"/>
+![https://github.com/Amarg24](https://github.com/Amarg24/Amarg24.wiki.git)
 
 <img src="https://raw.githubusercontent.com/Amarg24/Amarg24/main/saludo.svg"/>
 
