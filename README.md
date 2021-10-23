@@ -1,4 +1,4 @@
-https://github.com/Amarg24/Amarg24.wiki.git
+[perfil](https://drive.google.com/file/d/1L8QfQyLJ-L9KYT0BnIm4jy2W0QP7qZ1Q/view?usp=sharing)
 
 <img src="https://raw.githubusercontent.com/Amarg24/Amarg24/main/saludo.svg"/>
 
