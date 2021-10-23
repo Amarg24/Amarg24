@@ -1,4 +1,4 @@
-[perfil](https://drive.google.com/file/d/1L8QfQyLJ-L9KYT0BnIm4jy2W0QP7qZ1Q/view?usp=sharing)
+[perfil](https://raw.githubusercontent.com/Amarg24/Amarg24/main/imagen)
 
 <img src="https://raw.githubusercontent.com/Amarg24/Amarg24/main/saludo.svg"/>
 
